@@ -1,0 +1,47 @@
+C:\Users\Vladislav\Desktop\calculator\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Vladislav\Desktop\calculator\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Vladislav\Desktop\calculator\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Vladislav\Desktop\calculator\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\calculator\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Vladislav\Desktop\calculator\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\calculator\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\calculator\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Vladislav\Desktop\calculator\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Vladislav\Desktop\GameColor\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Vladislav\Desktop\GameColor\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Vladislav\Desktop\GameColor\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Vladislav\Desktop\GameColor\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Vladislav\Desktop\GameColor\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Vladislav\Desktop\GameColor\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Vladislav\Desktop\GameColor\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\GameColor\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\ColorMemoryGame-ecf3a0b702de79973c26dbfb158fc9d1ea970ab5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Vladislav\Desktop\ColorMemoryGame-ecf3a0b702de79973c26dbfb158fc9d1ea970ab5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Vladislav\Desktop\ColorMemoryGame-ecf3a0b702de79973c26dbfb158fc9d1ea970ab5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Vladislav\Desktop\ColorMemoryGame-ecf3a0b702de79973c26dbfb158fc9d1ea970ab5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Vladislav\Desktop\ColorMemoryGame-ecf3a0b702de79973c26dbfb158fc9d1ea970ab5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Vladislav\Desktop\ColorMemoryGame-ecf3a0b702de79973c26dbfb158fc9d1ea970ab5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.CreatorColor.resources
+C:\Users\Vladislav\Desktop\ColorMemoryGame-ecf3a0b702de79973c26dbfb158fc9d1ea970ab5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Vladislav\Desktop\ColorMemoryGame-ecf3a0b702de79973c26dbfb158fc9d1ea970ab5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\ColorMemoryGame-ecf3a0b702de79973c26dbfb158fc9d1ea970ab5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\ColorMemoryGame-ecf3a0b702de79973c26dbfb158fc9d1ea970ab5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.CreatorColor.resources
+C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\obj\Debug\Interop.WMPLib.dll
+C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.ResolveComReference.cache
+C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\bin\Debug\Interop.WMPLib.dll
+C:\Users\Vladislav\Desktop\Alavar Game\WindowsFormsApplication5\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Vladislav\Desktop\Новая папка\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Vladislav\Desktop\Новая папка\WindowsFormsApplication5\obj\Debug\Interop.WMPLib.dll
+C:\Users\Vladislav\Desktop\Новая папка\WindowsFormsApplication5\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Vladislav\Desktop\Новая папка\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.ResolveComReference.cache
+C:\Users\Vladislav\Desktop\Новая папка\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\Vladislav\Desktop\Новая папка\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb

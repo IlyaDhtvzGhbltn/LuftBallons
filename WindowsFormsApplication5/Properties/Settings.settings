@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApplication5.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="firstVin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gamer01</Value>
+    </Setting>
+    <Setting Name="secondVin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gamer02</Value>
+    </Setting>
+    <Setting Name="thirdVin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Gamer03</Value>
+    </Setting>
+    <Setting Name="countFirst" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="countSecond" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="countThird" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
